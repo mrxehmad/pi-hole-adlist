@@ -1,0 +1,23 @@
+# Pi-hole adlist by mrxehmad
+# GitHub: https://github.com/mrxehmad/pi-hole-adlist/
+
+0.0.0.0 naspeed.igamecj.com
+0.0.0.0 cdn2.pubgameshowtime.com
+0.0.0.0 cloudctrl.igamecj.com
+0.0.0.0 broker-1314297.vasdgame.com
+0.0.0.0 publicfaas.vasdgame.com
+0.0.0.0 hkping.igamecj.com
+0.0.0.0 mgl.lobby.igamecj.com
+0.0.0.0 igamecj.com
+0.0.0.0 pubg.com
+0.0.0.0 pubg.net
+0.0.0.0 pubgmobile.com
+0.0.0.0 pubgesports.com
+0.0.0.0 pubgstore.com
+0.0.0.0 pubgstatstistics.com
+0.0.0.0 pubgupdate.com
+0.0.0.0 pubglite.com
+0.0.0.0 pubgforums.com
+0.0.0.0 pubgtournament.com
+0.0.0.0 pubgcommunity.com
+0.0.0.0 pubgcheats.com
