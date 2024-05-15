@@ -1,11 +1,9 @@
 # ! Title: DoH DNS Block Filter
 # ! Description: Filter to block the public available DoH servers.
-# ! Homepage: github.com/MohamedElashri/doh-list
-# ! License: github.com/MohamedElashri/doh-list/blob/master/LICENSE
-# ! Last modified: 2024-05-01 12:05:25
+# ! Homepage: https://github.com/mrxehmad/pi-hole-adlist
+# ! Last modified: 2024-05-15 18:38:25
 # #
 # # Full URLs of DoH services:
-# #
 
 0.0.0.0 omes-sec.heytapmobile.com
 0.0.0.0 stat-in.dc.oppomobile.com
