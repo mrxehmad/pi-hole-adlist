@@ -43,6 +43,6 @@ Contributions to this repository are welcome. If you have additional domains to 
 While these lists aim to block unwanted content, they may also block legitimate content. Use them at your own discretion. The maintainers of this repository are not responsible for any unintended consequences of using these lists.
 
 ## Credit
-https://github.com/wranders/doh-list
-https://github.com/oneoffdallas/dohservers
+https://github.com/wranders/doh-list<br>
+https://github.com/oneoffdallas/dohservers<br>
 https://github.com/MohamedElashri/doh-list
