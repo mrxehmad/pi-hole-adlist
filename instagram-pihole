@@ -97,3 +97,10 @@
 0.0.0.0 instagram.flhe2-2.fna.fbcdn.net
 0.0.0.0 instagram.flhe2-4.fna.fbcdn.net
 0.0.0.0 cdninstagram.com
+0.0.0.0 connect.facebook.net
+0.0.0.0 cdn.fbsbx.com
+0.0.0.0 mqtt-mini.facebook.com
+0.0.0.0 edge-mqtt.facebook.com
+0.0.0.0 signalrs2-relayhub-prod-as03-1.service.signalr.net
+0.0.0.0 z-p42-chat-e2ee-ig.facebook.com
+#0.0.0.0 web.facebook.com
