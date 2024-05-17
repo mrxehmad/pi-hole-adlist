@@ -12,7 +12,29 @@ To use this list, add the following URL to your Pi-hole configuration:
 
 https://raw.githubusercontent.com/mrxehmad/pi-hole-adlist/main/pubg-block.txt
 
+### Snapchat Domains
 
+The `snapchat-pihole` file contains a list of domains associated with Snapchat, a multimedia messaging app. These domains may include tracking, ads, or other unwanted content related to the app.
+
+To use this list, add the following URL to your Pi-hole configuration:
+
+https://github.com/mrxehmad/pi-hole-adlist/raw/main/snapchat-pihole
+
+### Instagram Domains
+
+The `instagram-pihole` file contains a list of domains associated with Instagram, a popular social media platform. These domains may include tracking, ads, or other unwanted content related to the app.
+
+To use this list, add the following URL to your Pi-hole configuration:
+
+https://github.com/mrxehmad/pi-hole-adlist/raw/main/instagram-pihole
+
+### TikTok Domains
+
+The `tiktok-pihole` file contains a list of domains associated with TikTok, a video-sharing social networking service. These domains may include tracking, ads, or other unwanted content related to the app.
+
+To use this list, add the following URL to your Pi-hole configuration:
+
+https://github.com/mrxehmad/pi-hole-adlist/raw/main/tiktok-pihole
 
 ### DNS over HTTPS (DoH) Domains
 
@@ -28,21 +50,23 @@ https://raw.githubusercontent.com/mrxehmad/pi-hole-adlist/main/doh-list
 To add these lists to your Pi-hole, follow these steps:
 
 1. Log in to your Pi-hole admin interface.
-3. Select the "Adlists" tab.
-4. Enter the URL of the list you want to add.
-5. Click on "Add" and then click on "Save and Update".
+2. Select the "Adlists" tab.
+3. Enter the URL of the list you want to add.
+4. Click on "Add" and then click on "Save and Update".
 
 Your Pi-hole will now block the domains listed in the added lists.
 
 ## Contribution
-Thes lists are not 100% accurate and i try my best to update these lists if i miss something please do contribution to this repo😊 <br>
-Contributions to this repository are welcome. If you have additional domains to add to the lists or suggestions for improvement, feel free to open an issue or submit a pull requests.
+These lists are not 100% accurate and I try my best to update these lists. If something is missed, please contribute to this repo 😊 
+
+Contributions to this repository are welcome. If you have additional domains to add to the lists or suggestions for improvement, feel free to open an issue or submit a pull request.
 
 ## Disclaimer
 
 While these lists aim to block unwanted content, they may also block legitimate content. Use them at your own discretion. The maintainers of this repository are not responsible for any unintended consequences of using these lists.
 
 ## Credit
-https://github.com/wranders/doh-list<br>
-https://github.com/oneoffdallas/dohservers<br>
-https://github.com/MohamedElashri/doh-list
+
+- https://github.com/wranders/doh-list
+- https://github.com/oneoffdallas/dohservers
+- https://github.com/MohamedElashri/doh-list
