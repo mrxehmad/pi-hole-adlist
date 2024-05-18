@@ -17,8 +17,8 @@
 0.0.0.0 dns-tunnel-check.googlezip.net
 0.0.0.0 dns.msftncsi.com
 0.0.0.0 5312772251e565b41609357b79e1e6dc.nrb.footprintdns.com
-0.0.0.0 lazada-sg-2.daraz.wagbridge.aserver-lazada.alibaba.com.gds.alibabadns.com
-0.0.0.0 rg-sg.daraz.wagbridge.aserver-lazada.alibaba.com.gds.alibabadns.com
+#0.0.0.0 lazada-sg-2.daraz.wagbridge.aserver-lazada.alibaba.com.gds.alibabadns.com
+#0.0.0.0 rg-sg.daraz.wagbridge.aserver-lazada.alibaba.com.gds.alibabadns.com
 0.0.0.0 chrome.cloudflare-dns.com
 0.0.0.0 adguard.abd.ong
 0.0.0.0 doh.abraservice.xyz
