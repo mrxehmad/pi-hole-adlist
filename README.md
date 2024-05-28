@@ -50,7 +50,7 @@ The `hitv.list` file contains a list of domains associated with HiTV ads, a vide
 
 To use this list, add the following URL to your Pi-hole configuration:
 
-https://github.com/mrxehmad/pi-hole-adlist/raw/main/hitv.list
+https://raw.githubusercontent.com/mrxehmad/pi-hole-adlist/main/hitv.list
 
 ## How to Use
 
