@@ -44,6 +44,13 @@ To use this list, add the following URL to your Pi-hole configuration:
 
 https://raw.githubusercontent.com/mrxehmad/pi-hole-adlist/main/doh-list
 
+### HiTV ad Domains
+
+The `hitv.list` file contains a list of domains associated with HiTV ads, a video-sharing social networking service. These domains may include tracking, ads, or other unwanted content related to the app.
+
+To use this list, add the following URL to your Pi-hole configuration:
+
+https://github.com/mrxehmad/pi-hole-adlist/raw/main/hitv.list
 
 ## How to Use
 
