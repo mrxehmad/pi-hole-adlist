@@ -52,6 +52,14 @@ To use this list, add the following URL to your Pi-hole configuration:
 
 https://raw.githubusercontent.com/mrxehmad/pi-hole-adlist/main/hitv.list
 
+## huawei-block-list
+
+It's a block list. You can integrate this into your PiHole or local blocking software such as Blokada, AdAway... etc. to block out all the outgoing connections to the said domains.
+
+It turns out, if your device has bloated softwares(ie. Apps that comes pre-installed and you can't remove them unless you root your device, you're forced into keeping those services running. Manufacturers like Huawei have stopped providing bootloader unlock codes thereby not allowing you to root your device. So, the best solution is to setup a local proxy server that blocks the connection. 
+
+https://raw.githubusercontent.com/mrxehmad/pi-hole-adlist/main/huawei-host
+
 ## How to Use
 
 To add these lists to your Pi-hole, follow these steps:
@@ -77,3 +85,4 @@ While these lists aim to block unwanted content, they may also block legitimate 
 - https://github.com/wranders/doh-list
 - https://github.com/oneoffdallas/dohservers
 - https://github.com/MohamedElashri/doh-list
+- https://github.com/deep-bhatt/huawei-block-list
