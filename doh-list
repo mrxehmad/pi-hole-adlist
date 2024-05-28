@@ -68,6 +68,7 @@
 0.0.0.0 doh.opendns.com
 0.0.0.0 doh.familyshield.opendns.com
 0.0.0.0 doh.umbrella.com
+0.0.0.0 doh.cleanbrowsing.org
 0.0.0.0 doh.cleanbrowsing.org/doh/family-filter/
 0.0.0.0 doh.cleanbrowsing.org/doh/adult-filter/
 0.0.0.0 doh.cleanbrowsing.org/doh/security-filter/
