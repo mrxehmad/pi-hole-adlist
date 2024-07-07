@@ -21,3 +21,5 @@
 0.0.0.0 gcp.api.snapchat.com
 0.0.0.0 us-east1-aws.api.snapchat.com
 0.0.0.0 usc1-gcp-v61.api.snapchat.com
+us-east4-gcp.api.snapchat.com
+us-central1-gcp.api.snapchat.com
