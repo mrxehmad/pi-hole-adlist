@@ -1,2 +1,5 @@
 #Just A test Adlist
 10.1.15.1 mynewsite.com
+abtest.alibaba.com
+h-adashx4ae.ut.taobao.com
+asia-commonitor-stsdk.vivoglobal.com
