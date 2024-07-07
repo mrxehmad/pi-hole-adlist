@@ -21,3 +21,7 @@
 0.0.0.0 pubgtournament.com
 0.0.0.0 pubgcommunity.com
 0.0.0.0 pubgcheats.com
+pbs.twimg.com
+api.club.gpubgm.com
+cloud.gsdk.proximabeta.com
+de.voice.gcloudcs.com
