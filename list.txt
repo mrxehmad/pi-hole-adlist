@@ -14,7 +14,6 @@ pkjazz.smartadd.app
 www.ojrq.net
 locationhistory-pa.googleapis.com
 sammods.github.io
-api.revanced.app
 dl.listdl.com
 sg.tdatamaster.com
 asia-commonitor-stsdk.vivoglobal.com
