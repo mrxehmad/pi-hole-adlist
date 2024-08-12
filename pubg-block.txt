@@ -50,3 +50,7 @@ asia.csoversea.mbgame.anticheatexpert.com
 ig-us-notice.igamecj.com
 ig-us-sdkapi.igamecj.com
 cloud.vmp.onezapp.com
+pbs.twimg.com
+api.club.gpubgm.com
+cloud.gsdk.proximabeta.com
+de.voice.gcloudcs.com
