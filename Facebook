@@ -3,20 +3,16 @@
 # Last updated: 12 Aug 2024
 
 0.0.0.0 apps.facebook.com
-0.0.0.0 connect.facebook.net
 0.0.0.0 facebook.com
 0.0.0.0 fbsbx.com
 0.0.0.0 graph.facebook.com
 0.0.0.0 login.facebook.com
 0.0.0.0 s-static.ak.facebook.com
-0.0.0.0 static.ak.connect.facebook.com
 0.0.0.0 static.ak.facebook.net
-0.0.0.0 www.connect.facebook.net
 0.0.0.0 www.facebook.com
 0.0.0.0 www.graph.facebook.com
 0.0.0.0 www.login.facebook.com
 0.0.0.0 www.s-static.ak.facebook.com
-0.0.0.0 www.static.ak.connect.facebook.com
 0.0.0.0 www.static.ak.facebook.net
 0.0.0.0 0-edge-chat.facebook.com
 0.0.0.0 1-edge-chat.facebook.com
