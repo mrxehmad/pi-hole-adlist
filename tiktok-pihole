@@ -355,9 +355,11 @@ default.exp-tas.com
 ipv4.shuzilm.cn
 p16-sign-sg.tiktokcdn.com
 sg.tdatamaster.com
-*.tiktokcdn.com	
-*.tiktok.com
-*.tiktokv.com
-*.douyinliving.com
-*.bytedance.com
-*.douyincdn.com
+#*.tiktokcdn.com	
+#*.tiktok.com
+#*.tiktokv.com
+#*.douyinliving.com
+#*.bytedance.com
+#*.douyincdn.com
+p16-sign-sg.tiktokcdn.com
+p16-ttam-va.ibyteimg.com
