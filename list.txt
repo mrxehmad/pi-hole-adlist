@@ -16,17 +16,9 @@ sammods.github.io
 dl.listdl.com
 sg.tdatamaster.com
 asia-commonitor-stsdk.vivoglobal.com
-us-east4-gcp.api.snapchat.com
-us-central1-gcp.api.snapchat.com
 api16-log-sg.pangle.io
-p16-sign-sg.tiktokcdn.com
-p16-ttam-va.ibyteimg.com
 ipv4.shuzilm.cn
 abtest.alibaba.com
-pbs.twimg.com
-api.club.gpubgm.com
-cloud.gsdk.proximabeta.com
-de.voice.gcloudcs.com
 prebid.a-mo.net
 1x1.a-mo.net
 sync.a-mo.net
