@@ -1,5 +1,4 @@
 #Just A test Adlist
-10.1.15.1 mynewsite.com
 abtest.alibaba.com
 h-adashx4ae.ut.taobao.com
 asia-commonitor-stsdk.vivoglobal.com
@@ -28,3 +27,13 @@ pbs.twimg.com
 api.club.gpubgm.com
 cloud.gsdk.proximabeta.com
 de.voice.gcloudcs.com
+prebid.a-mo.net
+1x1.a-mo.net
+sync.a-mo.net
+static-cdn.spot.im
+publisher-assets.spot.im
+assets.a-mo.net
+id.a-mx.com
+config.aps.amazon-adsystem.com
+launcher.spot.im
+id.rtb.mx
