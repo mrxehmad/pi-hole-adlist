@@ -49,14 +49,6 @@ huaweihigame.com
 hwid-dra.platform.hicloud.com
 hwid-dre.platform.hicloud.com
 hwid.platform.hicloud.com
-id1.cloud.huawei.com
-id2.cloud.huawei.com
-id3.cloud.huawei.com
-id4.cloud.huawei.com
-id5.cloud.huawei.com
-id6.cloud.huawei.com
-id7.cloud.huawei.com
-id.cloud.huawei.com
 id-dre.dbankcdn.com
 logbak.hicloud.com
 logservice1.hicloud.com
@@ -67,7 +59,6 @@ metrics4.data.hicloud.com
 metrics5.data.hicloud.com
 metrics.data.hicloud.com
 metrics-dra.dt.hicloud.com
-pay5.hicloud.com
 pushtrs6.push.hicloud.com
 pushtrs7.push.hicloud.com
 rms-dre.platform.dbankcloud.com
@@ -89,8 +80,6 @@ tsms-dre-platform-dbankcloud-com-dre.appacc.dbankedge.net
 tsms-dre-platform-dbankcloud.com-dre.appacc.dbankedge.net
 tsms-dre-platform-dbankcloud-com-dre.appacc-region.dbankedge.net
 tsms-dre-platform-dbankcloud.com-dre.appacc-region.dbankedge.net
-upfile5.hicloud.com
-upfile7.hicloud.com
 videocontent-dra.himovie.hicloud.com
 cloudbackupv3-dra.cloud.dbankcloud.com
 userk-dra.cloud.dbankcloud.com
