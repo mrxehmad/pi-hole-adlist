@@ -1,6 +1,6 @@
 #Just A test Adlist
-abtest.alibaba.com
-h-adashx4ae.ut.taobao.com
+#abtest.alibaba.com
+#h-adashx4ae.ut.taobao.com
 asia-commonitor-stsdk.vivoglobal.com
 userlocation.googleapis.com
 test.internetdownloadmanager.com
