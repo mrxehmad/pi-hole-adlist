@@ -55,3 +55,10 @@ api.club.gpubgm.com
 cloud.gsdk.proximabeta.com
 de.voice.gcloudcs.com
 cdn2.pubgameshowtime.com
+de.voice.gcloudcs.com
+www.pubgmobile.com
+pbs.twimg.com
+cloud.gsdk.proximabeta.com
+api.club.gpubgm.com
+k.gjacky.com
+broker-1314297.vasdgame.com
