@@ -61,4 +61,7 @@ pbs.twimg.com
 cloud.gsdk.proximabeta.com
 api.club.gpubgm.com
 k.gjacky.com
+dl.gjacky.com
+d.gjacky.com
+f.gjacky.com
 broker-1314297.vasdgame.com
