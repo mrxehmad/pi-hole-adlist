@@ -36,3 +36,7 @@ tracking.pretrackings.com
 click.dealdeal.pro
 optimalfusiontech.promo
 asia-sysupgrade-api.vivoglobal.com
+edge.microsoft.com
+functional.events.data.microsoft.com
+arc.msn.com
+events.data.microsoft.com
