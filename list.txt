@@ -41,3 +41,9 @@ functional.events.data.microsoft.com
 #arc.msn.com
 events.data.microsoft.com
 edgeservices.bing.com
+palecount.com
+light-coat.pro
+facilityfootage.com
+rertessesse.xyz
+fibabro.name
+bulkconflictpeculiarities.com
