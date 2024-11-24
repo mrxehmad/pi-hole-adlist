@@ -25,8 +25,8 @@ sync.a-mo.net
 static-cdn.spot.im
 publisher-assets.spot.im
 assets.a-mo.net
-linktr.ee
-vpnbook.com
+#linktr.ee
+#vpnbook.com
 id.a-mx.com
 config.aps.amazon-adsystem.com
 launcher.spot.im
