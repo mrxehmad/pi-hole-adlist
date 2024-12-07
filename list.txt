@@ -68,3 +68,4 @@ hjres.hanju.koudaibaobao.com
 2.z0.glb.qiniucdn.com
 aa.unioneeu.com
 analytics-tcp.mtgglobals.com
+registeridm.com
