@@ -25,7 +25,7 @@ sync.a-mo.net
 static-cdn.spot.im
 publisher-assets.spot.im
 assets.a-mo.net
-#linktr.ee
+linktr.ee
 #vpnbook.com
 id.a-mx.com
 config.aps.amazon-adsystem.com
@@ -69,3 +69,12 @@ hjres.hanju.koudaibaobao.com
 aa.unioneeu.com
 analytics-tcp.mtgglobals.com
 registeridm.com
+allmylinks.com
+graph.whatsapp.com
+f8f131.dns.nextdns.io
+cpngiubbcnq.love
+xwzbpkku-i.site
+o33249.ingest.sentry.io
+optimalfusiontech.promo
+dcgjpojm.space
+fhldb.site
