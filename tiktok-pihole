@@ -1,365 +1,203 @@
-0.0.0.0 api-h2.tiktokv.com
-0.0.0.0 api21-h2.tiktokv.com
-0.0.0.0 ns-440.awsdns-55.com
-0.0.0.0 ns-722.awsdns-26.net
-0.0.0.0 ns-1475.awsdns-56.org
-0.0.0.0 ns-1574.awsdns-04.co.uk
-0.0.0.0 tiktokcdn-com.akamaized.net
-0.0.0.0 m.tiktok.com
-0.0.0.0 t.tiktok.com
-0.0.0.0 tiktok.com
-0.0.0.0 tiktok.org
-0.0.0.0 tiktokcdn.com
-0.0.0.0 tiktokv.com
-0.0.0.0 vt.tiktok.com
-0.0.0.0 v19.tiktokcdn.com
-0.0.0.0 v16.tiktokcdn.com
-0.0.0.0 api.tiktokv.com
-0.0.0.0 mon.tiktokv.com
-0.0.0.0 ib.tiktokv.com
-0.0.0.0 p16-tiktokcdn-com.akamaized.net
-0.0.0.0 v16-tiktokcdn-com.akamaized.net
-0.0.0.0 47.252.102.50
-0.0.0.0 161.117.71.74
-0.0.0.0 47.252.102.182
-0.0.0.0 161.117.71.35
-0.0.0.0 161.117.70.89
-0.0.0.0 161.117.70.145
-0.0.0.0 161.117.70.136
-0.0.0.0 47.252.50.101
-0.0.0.0 47.252.102.193
-0.0.0.0 161.117.71.34
-0.0.0.0 161.117.71.73
-0.0.0.0 47.252.102.48
-0.0.0.0 47.252.50.157
-0.0.0.0 34.196.79.125
-0.0.0.0 47.252.102.198
-0.0.0.0 161.117.70.68
-0.0.0.0 musical.ly
-0.0.0.0 muscdn.com
-0.0.0.0 akamai.net
-0.0.0.0 isnssdk.com
-0.0.0.0 www.tiktok.com
-0.0.0.0 api16-normal-c-useast1a.tiktokv.com
-0.0.0.0 v36.tiktokcdn.com
-0.0.0.0 v16m.tiktokcdn.com
-0.0.0.0 pull-f5-va01.fcdn.eu.tiktokcdn.com
-0.0.0.0 pull-flv-f61-va01.tiktokcdn.com
-0.0.0.0 pull-flv-f64-va01.tiktokcdn.com
-0.0.0.0 pull-flv-l77-va01.tiktokcdn.com
-0.0.0.0 pull-cmaf-f5-sg01.tiktokcdn.com
-0.0.0.0 pull-cmaf-f16-gcp01.tiktokcdn.com
-0.0.0.0 push-rtmp-f5-va01.tiktokcdn.com
-0.0.0.0 pull-q5-gcp01.tiktokcdn.com
-0.0.0.0 pull-flv-w77-sg01.eu.tiktokcdn.com
-0.0.0.0 pull-flv-f77-sg01.tiktokcdn.com
-0.0.0.0 pull-flv-l77-tt01.eu.tiktokcdn.com
-0.0.0.0 pull-q5-va01.fcdn.eu.tiktokcdn.com
-0.0.0.0 pull-o5-sg01.tiktokcdn.com
-0.0.0.0 pull-cmaf-l10-gcp01.tiktokcdn.com
-0.0.0.0 pull-flv-f77-tt03.fcdn.eu.tiktokcdn.com
-0.0.0.0 pull-flv-l10-gcp01.tiktokcdn.com
-0.0.0.0 pull-flv-f65-va01.tiktokcdn.com
-0.0.0.0 pull-w5-va01.fcdn.eu.tiktokcdn.com
-0.0.0.0 pull-flv-l77-va01.eu.tiktokcdn.com
-0.0.0.0 pull-flv-f1-va01.tiktokcdn.com
-0.0.0.0 pull-flv-o77-va01.eu.tiktokcdn.com
-0.0.0.0 pull-cmaf-l16-va01.tiktokcdn.com
-0.0.0.0 pull-w5-sg01.tiktokcdn.com
-0.0.0.0 mon31-normal-useast1a.tiktokv.com
-0.0.0.0 pull-f5-gcp01.ttlivecdn.com
-0.0.0.0 pull-flv-l11-va01.tiktokcdn.com
-0.0.0.0 pull-cmaf-f16-sg01.tiktokcdn.com
-0.0.0.0 pull-a5-gcp01.tiktokcdn.com
-0.0.0.0 pull-f5-tt01.fcdn.eu.tiktokcdn.com
-0.0.0.0 pull-flv-l1-sg01.tiktokcdn.com
-0.0.0.0 pull-flv-l77-tt01.tiktokcdn.com
-0.0.0.0 pull-q5-sg01.fcdn.eu.tiktokcdn.com
-0.0.0.0 pull-hls-l77-va01.tiktokcdn.com
-0.0.0.0 pull-f5-vr-va01.tiktokcdn.com
-0.0.0.0 pull-cmaf-l10-sg01.tiktokcdn.com
-0.0.0.0 pull-flv-f1-gcp01.tiktokcdn.com
-0.0.0.0 pull-flv-l16-sg01.tiktokcdn.com
-0.0.0.0 pull-w5-va01.tiktokcdn.com
-0.0.0.0 pull-cmaf-f16-tt02-tt03.fcdn.eu.tiktokcdn.com
-0.0.0.0 pull-cmaf-f77-tt03.tiktokcdn.com
-0.0.0.0 pull-flv-f77-tt03-expt.fcdn.eu.tiktokcdn.com
-0.0.0.0 pull-f5-va01.tiktokcdn.com
-0.0.0.0 pull-flv-f77-gcp01.tiktokcdn.com
-0.0.0.0 pull-f5-sg01.tiktokcdn.com
-0.0.0.0 pull-flv-f65-sg01.tiktokcdn.com
-0.0.0.0 sf16-ies-music-va.tiktokcdn.com
-0.0.0.0 bsync31-normal-useast1a.tiktokv.com
-0.0.0.0 whoami.akamai.net
-0.0.0.0 api16-core-c-useast1a.tiktokv.com
-0.0.0.0 p16-sign.tiktokcdn-us.com
-0.0.0.0 p19-sign.tiktokcdn-us.com
-0.0.0.0 api16-normal-c-useast1a.tiktokv.com
-0.0.0.0 v36.tiktokcdn.com
-0.0.0.0 v16m.tiktokcdn.com
-0.0.0.0 api16-normal-c-useast1a.tiktokv.com
-0.0.0.0 pull-f5-va01.fcdn.eu.tiktokcdn.com
-0.0.0.0 pull-flv-f61-va01.tiktokcdn.com
-0.0.0.0 pull-flv-f64-va01.tiktokcdn.com
-0.0.0.0 pull-flv-l77-va01.tiktokcdn.com
-0.0.0.0 pull-cmaf-f5-sg01.tiktokcdn.com
-0.0.0.0 pull-cmaf-f16-gcp01.tiktokcdn.com
-0.0.0.0 push-rtmp-f5-va01.tiktokcdn.com
-0.0.0.0 pull-q5-gcp01.tiktokcdn.com
-0.0.0.0 pull-flv-w77-sg01.eu.tiktokcdn.com
-0.0.0.0 pull-flv-f77-sg01.tiktokcdn.com
-0.0.0.0 pull-flv-l77-tt01.eu.tiktokcdn.com
-0.0.0.0 pull-q5-va01.fcdn.eu.tiktokcdn.com
-0.0.0.0 pull-o5-sg01.tiktokcdn.com
-0.0.0.0 pull-cmaf-l10-gcp01.tiktokcdn.com
-0.0.0.0 pull-flv-f77-tt03.fcdn.eu.tiktokcdn.com
-0.0.0.0 pull-flv-l10-gcp01.tiktokcdn.com
-0.0.0.0 pull-flv-f65-va01.tiktokcdn.com
-0.0.0.0 pull-w5-va01.fcdn.eu.tiktokcdn.com
-0.0.0.0 pull-flv-l77-va01.eu.tiktokcdn.com
-0.0.0.0 pull-flv-l77-va01.eu.tiktokcdn.com
-0.0.0.0 pull-flv-f1-va01.tiktokcdn.com
-0.0.0.0 pull-flv-o77-va01.eu.tiktokcdn.com
-0.0.0.0 pull-cmaf-l16-va01.tiktokcdn.com
-0.0.0.0 pull-w5-sg01.tiktokcdn.com
-0.0.0.0 mon31-normal-useast1a.tiktokv.com
-0.0.0.0 pull-w5-sg01.tiktokcdn.com
-0.0.0.0 pull-f5-gcp01.ttlivecdn.com
-0.0.0.0 pull-flv-l11-va01.tiktokcdn.com
-0.0.0.0 pull-cmaf-f16-sg01.tiktokcdn.com
-0.0.0.0 pull-a5-gcp01.tiktokcdn.com
-0.0.0.0 pull-f5-tt01.fcdn.eu.tiktokcdn.com
-0.0.0.0 pull-flv-l1-sg01.tiktokcdn.com
-0.0.0.0 pull-flv-l77-tt01.tiktokcdn.com
-0.0.0.0 pull-q5-sg01.fcdn.eu.tiktokcdn.com
-0.0.0.0 pull-hls-l77-va01.tiktokcdn.com
-0.0.0.0 pull-f5-vr-va01.tiktokcdn.com
-0.0.0.0 pull-cmaf-l10-sg01.tiktokcdn.com
-0.0.0.0 pull-flv-f1-gcp01.tiktokcdn.com
-0.0.0.0 pull-flv-l16-sg01.tiktokcdn.compull-w5-sg01.fcdn.eu.tiktokcdn.com
-0.0.0.0 pull-w5-va01.tiktokcdn.com
-0.0.0.0 pull-cmaf-f16-tt02-tt03.fcdn.eu.tiktokcdn.com
-0.0.0.0 pull-cmaf-f77-tt03.tiktokcdn.com
-0.0.0.0 pull-flv-f77-tt03-expt.fcdn.eu.tiktokcdn.com
-0.0.0.0 pull-f5-va01.tiktokcdn.com
-0.0.0.0 pull-f5-va01.tiktokcdn.com
-0.0.0.0 pull-flv-f77-gcp01.tiktokcdn.com
-0.0.0.0 pull-f5-sg01.tiktokcdn.com
-0.0.0.0 pull-flv-f65-sg01.tiktokcdn.com
-0.0.0.0 sf16-ies-music-va.tiktokcdn.com
-0.0.0.0 bsync31-normal-useast1a.tiktokv.com
-0.0.0.0 whoami.akamai.net
-0.0.0.0 api16-normal-c-useast1a.tiktokv.com
-0.0.0.0 api16-core-c-useast1a.tiktokv.com
-0.0.0.0 p16-sign.tiktokcdn-us.com
-0.0.0.0 p19-sign.tiktokcdn-us.com
-0.0.0.0 pull-f5-hs.flive.pstatp.com
-0.0.0.0 pull-hls-hs-f5-vs-tsl.douyincdn.com
-0.0.0.0 pull-lls-spe-l26.douyincdn.com
-0.0.0.0 pull-flv-spe-l1.douyincdn.com
-0.0.0.0 pull-hs-f5-encryption.flive.douyincdn.com
-0.0.0.0 pull-f3-proxy.douyincdn.com
-0.0.0.0 pull-tsl-l1.douyincdn.com
-0.0.0.0 pull-hs-spe-f5.douyincdn.com
-0.0.0.0 gecko16-normal-useast1a.tiktokv.com
-0.0.0.0 pull-l3.douyincdn.com
-0.0.0.0 pull-tsl-spe-l6.douyinliving.com
-0.0.0.0 push-rtmp-l1.douyincdn.com
-0.0.0.0 pull-flv-l11-encryption.douyincdn.com
-0.0.0.0 umengacs.m.taobao.com
-0.0.0.0 ib.snssdk.com
-0.0.0.0 pull-flv-l6-hs.pstatp.com
-0.0.0.0 pull-flv-l1.douyincdn.com
-0.0.0.0 pull-hls-spe-l26.douyinliving.com
-0.0.0.0 push-rtmp-hs-vr-f5-spe01.douyincdn.com
-0.0.0.0 pull-lls-hs-f5.flive.douyincdn.com
-0.0.0.0 push-rtmp-l6-hs.pstatp.com
-0.0.0.0 pull-tsl-spe-l11.douyinliving.com
-0.0.0.0 umengacs.m.taobao.com
-0.0.0.0 pull-rtmp-l1-hs.pstatp.com
-0.0.0.0 pull-lls-l1.douyincdn.com
-0.0.0.0 push-rtmp-f5-vs.douyincdn.com
-0.0.0.0 push-rtmp-f5-enc.douyincdn.com
-0.0.0.0 pull-tsl-l95.douyincdn.com
-0.0.0.0 pull-tsl-f1.douyincdn.com
-0.0.0.0 pull-flv-cny01-spe-l11.douyinliving.com
-0.0.0.0 pull-flv-l6-source.douyincdn.com
-0.0.0.0 pull-hls-spe-l11.douyinliving.com
-0.0.0.0 pull-rtmp-l6-hs.pstatp.com
-0.0.0.0 pull-rtmp-l1-cny.douyincdn.com
-0.0.0.0 pull-rtmp-l11.douyincdn.com
-0.0.0.0 pull-rtmp-f11.douyincdn.com
-0.0.0.0 pull-lls-f5.flive.douyincdn.com
-0.0.0.0 pull-tsl-f11.douyincdn.com
-0.0.0.0 pull-flv-f6-hs.pstatp.com
-0.0.0.0 pull-flv-l6-encryption.douyincdn.com
-0.0.0.0 pull-rtmp-l95.douyincdn.com
-0.0.0.0 pull-tsl-f6.douyincdn.com
-0.0.0.0 pull-flv-l1.douyinliving.com
-0.0.0.0 pull-f3.douyincdn.com
-0.0.0.0 push-rtmp-l29.douyincdn.com
-0.0.0.0 pull-flv-l11-source.douyincdn.com
-0.0.0.0 umengacs.m.taobao.com
-0.0.0.0 pull-rtmp-f6-hs.pstatp.com
-0.0.0.0 pull-flv-f1-hs.pstatp.com
-0.0.0.0 pull-lls-spe-l11.douyincdn.com
-0.0.0.0 pull-l3-cny.douyincdn.com
-0.0.0.0 pull-hs-f5-spe01.douyincdn.com
-0.0.0.0 push-rtmp-f5-cny.douyincdn.com
-0.0.0.0 push-rtmp-f5-enc.douyincdn.com
-0.0.0.0 pull-hls-hs-f5-tsl.d
-0.0.0.0 douyincdn.com
-0.0.0.0 pull-lls-l6.douyincdn.com
-0.0.0.0 pull-flv-l13.douyincdn.com
-0.0.0.0 lf-webcast-gr-sourcecdn.bytegecko.com
-0.0.0.0 mon.zijieapi.com
-0.0.0.0 pull-hs-f5.flive.huoshanlive.com
-0.0.0.0 pull-tsl-vr-l3.douyincdn.com
-0.0.0.0 pull-flv-f13.douyincdn.com
-0.0.0.0 push-rtmp-l1-cny.douyincdn.com
-0.0.0.0 mon.snssdk.com
-0.0.0.0 pull-spe-l3.douyinliving.com
-0.0.0.0 pull-lls-spe-l26.douyinliving.com
-0.0.0.0 vcl-brain.ndcpp.com
-0.0.0.0 push-rtmp-l11-encryption.douyincdn.com
-0.0.0.0 pull-rtmp-l6-source.douyincdn.com
-0.0.0.0 www.bytedance.com
-0.0.0.0 umengacs.m.taobao.com
-0.0.0.0 pitaya.bytedance.com
-0.0.0.0 umengacs.m.taobao.com
-0.0.0.0 whoami.akamai.net
-0.0.0.0 audid.umeng.com
-0.0.0.0 umengacs.m.taobao.com
-0.0.0.0 mon.zijieapi.com
-0.0.0.0 ulogs.umeng.com
-0.0.0.0 umengacs.m.taobao.com
-0.0.0.0 lf3-cdn-tos.douyinstatic.com
-0.0.0.0 abtest3-misc-lf.zijieapi.com
-0.0.0.0 lf6-cdn-tos.douyinstatic.com
-0.0.0.0 webcast5-normal-lf.amemv.com
-0.0.0.0 app-measurement.com
-0.0.0.0 mssdk3-normal-lf.zijieapi.com
-0.0.0.0 webcast5-core-lf.amemv.com
-0.0.0.0 p3.douyinpic.com
-0.0.0.0 p3-sign.douyinpic.com
-0.0.0.0 ecom3-normal-lf.ecombdapi.com
-0.0.0.0 v5-dy-o-abtest.zjcdn.com
-0.0.0.0 ecom5-normal-lf.ecombdapi.com
-0.0.0.0 ec5-core-lf.ecombdapi.com
-0.0.0.0 ec3-core-lf.ecombdapi.com
-0.0.0.0 api3-normal-c-lf.amemv.com
-0.0.0.0 mon11-misc-lf.amemv.com
-0.0.0.0 search5-search-hl.amemv.com
-0.0.0.0 pull-tsl-f26.douyincdn.com
-0.0.0.0 pull-rtmp-l1.douyincdn.com
-0.0.0.0 pull-rtmp-l26-cny.douyincdn.com
-0.0.0.0 push-rtmp-l1.ixigua.com
-0.0.0.0 pull-rtmp-l1-source.douyincdn.com
-0.0.0.0 douyin.starrydyn.com
-0.0.0.0 p26-safelight.byteimg.com
-0.0.0.0 pull-tsl-l26.douyincdn.com
-0.0.0.0 push-rtmp-spe-l6.douyincdn.com
-0.0.0.0 pull-hls-vr-l6.douyincdn.com
-0.0.0.0 pull-rtmp-f29.douyincdn.com
-0.0.0.0 push-rtmp-hs-f5-xg.ixigua.com
-0.0.0.0 push-rtmp-spe-l11.douyincdn.com
-0.0.0.0 pull-lls-spe-l11.douyinliving.com
-0.0.0.0 push-rtmp-l3-enc.douyincdn.com
-0.0.0.0 push-rtmp-l3-cny.douyincdn.com
-0.0.0.0 pull-hs-f5.flive.douyincdn.com
-0.0.0.0 tnc11-bjlgy.zijieapi.com
-0.0.0.0 pull-hls-hs-f5-enc.flive.douyincdn.com
-0.0.0.0 webcast3-normal-c-lf.amemv.com
-0.0.0.0 pull-tsl-spe-l1.douyinliving.com
-0.0.0.0 push-rtmp-spe-l1.douyincdn.com
-0.0.0.0 pull-hls-hs-f5-tsl.douyincdn.com
-0.0.0.0 push-rtmp-hs-spe-f5.douyincdn.com
-0.0.0.0 p6.douyinpic.com
-0.0.0.0 msv6.wosms.cn
-0.0.0.0 id6.me
-0.0.0.0 v3-dy-o.zjcdn.com
-0.0.0.0 search3-search-hl.amemv.com
-0.0.0.0 ma3-normal-lf.zijieapi.com
-0.0.0.0 ma5-normal-lf.zijieapi.com
-0.0.0.0 tnc3-aliec2.zijieapi.com
-0.0.0.0 render.ecombdpage.com
-0.0.0.0 api19-normal-c-useast1a.tiktokv.com
-0.0.0.0 p16-amd-va.tiktokcdn.com
-0.0.0.0 v36e.tiktokcdn.com
-0.0.0.0 p16-sign-sg.tiktokcdn.com
-0.0.0.0 mon16-normal-c-useast1a.tiktokv.com
-0.0.0.0 p16-sign-va.tiktokcdn.com
-0.0.0.0 frontier-va.tiktokv.com
-0.0.0.0 mssdk16-normal-useast1a.tiktokv.com
-0.0.0.0 v16me.tiktokcdn.com
-0.0.0.0 v36e.tiktokcdn.com
-0.0.0.0 search19-normal-alisg.tiktokv.com
-0.0.0.0 search16-normal-c-alisg.tiktokv.com
-0.0.0.0 libra-va.tiktokv.com
-0.0.0.0 api19-normal-c-useast1a.tiktokv.com
-0.0.0.0 vcs-va.tiktokv.com
-0.0.0.0 log16-normal-useast1a.tiktokv.com
-0.0.0.0 api19-core-c-useast1a.tiktokv.com
-0.0.0.0 tnc16-platform-useast1a.tiktokv.com
-0.0.0.0 p16-amd-va.tiktokcdn.com
-0.0.0.0 search22-normal-c-alisg.tiktokv.com
-0.0.0.0 p16-sign-useast2a.tiktokcdn.com	
-0.0.0.0 p16-sign-useast2a.tiktokcdn.com
-0.0.0.0 pull-flv-f61-va01.tiktokcdn.com
-0.0.0.0 sf16-ies-music-sg.tiktokcdn.com
-0.0.0.0 pull-flv-f64-va01.tiktokcdn.com
-0.0.0.0 p16-sign-va.tiktokcdn.com
-0.0.0.0 mssdk22-normal-useast1a.tiktokv.com
-0.0.0.0 pull-flv-l77-va01.tiktokcdn.com
-0.0.0.0 pull-cmaf-f5-sg01.tiktokcdn.com
-0.0.0.0 pull-cmaf-f16-gcp01.tiktokcdn.com
-0.0.0.0 push-rtmp-f5-va01.tiktokcdn.com
-0.0.0.0 pull-q5-gcp01.tiktokcdn.com
-0.0.0.0 pull-flv-w77-sg01.eu.tiktokcdn.com
-0.0.0.0 pull-flv-f77-sg01.tiktokcdn.com
-0.0.0.0 pull-flv-l77-tt01.eu.tiktokcdn.com
-0.0.0.0 pull-q5-va01.fcdn.eu.tiktokcdn.com
-0.0.0.0 pull-cmaf-l10-gcp01.tiktokcdn.com
-0.0.0.0 pull-o5-sg01.tiktokcdn.com
-0.0.0.0 pull-flv-f77-tt03.fcdn.eu.tiktokcdn.com
-0.0.0.0 pull-flv-l10-gcp01.tiktokcdn.com
-0.0.0.0 pull-flv-f65-va01.tiktokcdn.com
-0.0.0.0 p19-sign.tiktokcdn-us.com
-0.0.0.0 pull-w5-va01.fcdn.eu.tiktokcdn.com
-0.0.0.0 pull-flv-f77-va01.tiktokcdn.com
-0.0.0.0 pull-w5-sg01.fcdn.eu.tiktokcdn.com
-0.0.0.0 whoami.akamai.net
-0.0.0.0 v36.tiktokcdn.com
-0.0.0.0 pull-cmaf-f77-tt03.tiktokcdn.com
-0.0.0.0 pull-flv-f77-tt03-expt.fcdn.eu.tiktokcdn.com
-0.0.0.0 push-rtmp-f5-tt03.fcdn.eu.tiktokcdn.com
-0.0.0.0 pull-f5-va01.tiktokcdn.com
-0.0.0.0 pull-flv-f77-gcp01.tiktokcdn.com
-0.0.0.0 pull-f5-sg01.tiktokcdn.com
-0.0.0.0 pull-flv-f65-sg01.tiktokcdn.com
-0.0.0.0 pull-c5-gcp01.tiktokcdn.com
-0.0.0.0 pull-flv-l77-sg01.tiktokcdn.com
-0.0.0.0 pull-flv-l77-gcp01.eu.tiktokcdn.com
-0.0.0.0 pull-flv-q77-va01.eu.tiktokcdn.com
-0.0.0.0 pull-w5-gcp01.tiktokcdn.com
-0.0.0.0 pull-flv-f77-tt02.fcdn.us.tiktokv.com
-0.0.0.0 pull-flv-f11-tt01.tiktokcdn.com
-pull-f5-sg01.fcdn.eu.tiktokcdn.com
-pull-flv-w10-va01.tiktokcdn.com
-pull-flv-q10-sg01.tiktokcdn.com
-pull-flv-o1-sg01.tiktokcdn.com
-pull-flv-w10-sg01.tiktokcdn.com
-tnc16-useast1a.byteoversea.com
-h-adashx4ae.ut.taobao.com
-default.exp-tas.com
-ipv4.shuzilm.cn
-p16-sign-sg.tiktokcdn.com
-sg.tdatamaster.com
-#*.tiktokcdn.com	
-#*.tiktok.com
-#*.tiktokv.com
-#*.douyinliving.com
-#*.bytedance.com
-#*.douyincdn.com
-p16-sign-sg.tiktokcdn.com
-p16-ttam-va.ibyteimg.com
+||api-h2.tiktokv.com
+||api21-h2.tiktokv.com
+||ns-440.awsdns-55.com
+||ns-722.awsdns-26.net
+||ns-1475.awsdns-56.org
+||ns-1574.awsdns-04.co.uk
+||tiktokcdn-com.akamaized.net
+||m.tiktok.com
+||t.tiktok.com
+||tiktok.com
+||tiktok.org
+||tiktokcdn.com
+||tiktokv.com
+||vt.tiktok.com
+||v19.tiktokcdn.com
+||v16.tiktokcdn.com
+||api.tiktokv.com
+||mon.tiktokv.com
+||ib.tiktokv.com
+||p16-tiktokcdn-com.akamaized.net
+||v16-tiktokcdn-com.akamaized.net
+||47.252.102.50
+||161.117.71.74
+||47.252.102.182
+||161.117.71.35
+||161.117.70.89
+||161.117.70.145
+||161.117.70.136
+||47.252.50.101
+||47.252.102.193
+||161.117.71.34
+||161.117.71.73
+||47.252.102.48
+||47.252.50.157
+||34.196.79.125
+||47.252.102.198
+||161.117.70.68
+||musical.ly
+||muscdn.com
+||akamai.net
+||isnssdk.com
+||www.tiktok.com
+||api16-normal-c-useast1a.tiktokv.com
+||v36.tiktokcdn.com
+||v16m.tiktokcdn.com
+||pull-f5-va01.fcdn.eu.tiktokcdn.com
+||pull-flv-f61-va01.tiktokcdn.com
+||pull-flv-f64-va01.tiktokcdn.com
+||pull-flv-l77-va01.tiktokcdn.com
+||pull-cmaf-f5-sg01.tiktokcdn.com
+||pull-cmaf-f16-gcp01.tiktokcdn.com
+||push-rtmp-f5-va01.tiktokcdn.com
+||pull-q5-gcp01.tiktokcdn.com
+||pull-flv-w77-sg01.eu.tiktokcdn.com
+||pull-flv-f77-sg01.tiktokcdn.com
+||pull-flv-l77-tt01.eu.tiktokcdn.com
+||pull-q5-va01.fcdn.eu.tiktokcdn.com
+||pull-o5-sg01.tiktokcdn.com
+||pull-cmaf-l10-gcp01.tiktokcdn.com
+||pull-flv-f77-tt03.fcdn.eu.tiktokcdn.com
+||pull-flv-l10-gcp01.tiktokcdn.com
+||pull-flv-f65-va01.tiktokcdn.com
+||pull-w5-va01.fcdn.eu.tiktokcdn.com
+||pull-flv-l77-va01.eu.tiktokcdn.com
+||pull-flv-f1-va01.tiktokcdn.com
+||pull-flv-o77-va01.eu.tiktokcdn.com
+||pull-cmaf-l16-va01.tiktokcdn.com
+||pull-w5-sg01.tiktokcdn.com
+||mon31-normal-useast1a.tiktokv.com
+||pull-f5-gcp01.ttlivecdn.com
+||pull-flv-l11-va01.tiktokcdn.com
+||pull-cmaf-f16-sg01.tiktokcdn.com
+||pull-a5-gcp01.tiktokcdn.com
+||pull-f5-tt01.fcdn.eu.tiktokcdn.com
+||pull-flv-l1-sg01.tiktokcdn.com
+||pull-flv-l77-tt01.tiktokcdn.com
+||pull-q5-sg01.fcdn.eu.tiktokcdn.com
+||pull-hls-l77-va01.tiktokcdn.com
+||pull-f5-vr-va01.tiktokcdn.com
+||pull-cmaf-l10-sg01.tiktokcdn.com
+||pull-flv-f1-gcp01.tiktokcdn.com
+||pull-flv-l16-sg01.tiktokcdn.com
+||pull-w5-va01.tiktokcdn.com
+||pull-cmaf-f16-tt02-tt03.fcdn.eu.tiktokcdn.com
+||pull-cmaf-f77-tt03.tiktokcdn.com
+||pull-flv-f77-tt03-expt.fcdn.eu.tiktokcdn.com
+||pull-f5-va01.tiktokcdn.com
+||pull-flv-f77-gcp01.tiktokcdn.com
+||pull-f5-sg01.tiktokcdn.com
+||pull-flv-f65-sg01.tiktokcdn.com
+||sf16-ies-music-va.tiktokcdn.com
+||bsync31-normal-useast1a.tiktokv.com
+||whoami.akamai.net
+||api16-core-c-useast1a.tiktokv.com
+||p16-sign.tiktokcdn-us.com
+||p19-sign.tiktokcdn-us.com
+||api16-normal-c-useast1a.tiktokv.com
+||v36.tiktokcdn.com
+||v16m.tiktokcdn.com
+||api16-normal-c-useast1a.tiktokv.com
+||pull-f5-va01.fcdn.eu.tiktokcdn.com
+||pull-flv-f61-va01.tiktokcdn.com
+||pull-flv-f64-va01.tiktokcdn.com
+||pull-flv-l77-va01.tiktokcdn.com
+||pull-cmaf-f5-sg01.tiktokcdn.com
+||pull-cmaf-f16-gcp01.tiktokcdn.com
+||push-rtmp-f5-va01.tiktokcdn.com
+||pull-q5-gcp01.tiktokcdn.com
+||pull-flv-w77-sg01.eu.tiktokcdn.com
+||pull-flv-f77-sg01.tiktokcdn.com
+||pull-flv-l77-tt01.eu.tiktokcdn.com
+||pull-q5-va01.fcdn.eu.tiktokcdn.com
+||pull-o5-sg01.tiktokcdn.com
+||pull-cmaf-l10-gcp01.tiktokcdn.com
+||pull-flv-f77-tt03.fcdn.eu.tiktokcdn.com
+||pull-flv-l10-gcp01.tiktokcdn.com
+||pull-flv-f65-va01.tiktokcdn.com
+||pull-w5-va01.fcdn.eu.tiktokcdn.com
+||pull-flv-l77-va01.eu.tiktokcdn.com
+||pull-flv-l77-va01.eu.tiktokcdn.com
+||pull-flv-f1-va01.tiktokcdn.com
+||pull-flv-o77-va01.eu.tiktokcdn.com
+||pull-cmaf-l16-va01.tiktokcdn.com
+||pull-w5-sg01.tiktokcdn.com
+||mon31-normal-useast1a.tiktokv.com
+||pull-w5-sg01.tiktokcdn.com
+||pull-f5-gcp01.ttlivecdn.com
+||pull-flv-l11-va01.tiktokcdn.com
+||pull-cmaf-f16-sg01.tiktokcdn.com
+||pull-a5-gcp01.tiktokcdn.com
+||pull-f5-tt01.fcdn.eu.tiktokcdn.com
+||pull-flv-l1-sg01.tiktokcdn.com
+||pull-flv-l77-tt01.tiktokcdn.com
+||pull-q5-sg01.fcdn.eu.tiktokcdn.com
+||pull-hls-l77-va01.tiktokcdn.com
+||pull-f5-vr-va01.tiktokcdn.com
+||pull-cmaf-l10-sg01.tiktokcdn.com
+||pull-flv-f1-gcp01.tiktokcdn.com
+||pull-flv-l16-sg01.tiktokcdn.compull-w5-sg01.fcdn.eu.tiktokcdn.com
+||pull-w5-va01.tiktokcdn.com
+||pull-cmaf-f16-tt02-tt03.fcdn.eu.tiktokcdn.com
+||pull-cmaf-f77-tt03.tiktokcdn.com
+||pull-flv-f77-tt03-expt.fcdn.eu.tiktokcdn.com
+||pull-f5-va01.tiktokcdn.com
+||pull-f5-va01.tiktokcdn.com
+||pull-flv-f77-gcp01.tiktokcdn.com
+||pull-f5-sg01.tiktokcdn.com
+||pull-flv-f65-sg01.tiktokcdn.com
+||sf16-ies-music-va.tiktokcdn.com
+||bsync31-normal-useast1a.tiktokv.com
+||whoami.akamai.net
+||api16-normal-c-useast1a.tiktokv.com
+||api16-core-c-useast1a.tiktokv.com
+||p16-sign.tiktokcdn-us.com
+||p19-sign.tiktokcdn-us.com
+||pull-f5-hs.flive.pstatp.com
+||pull-hls-hs-f5-vs-tsl.douyincdn.com
+||pull-lls-spe-l26.douyincdn.com
+||pull-flv-spe-l1.douyincdn.com
+||pull-hs-f5-encryption.flive.douyincdn.com
+||pull-f3-proxy.douyincdn.com
+||pull-tsl-l1.douyincdn.com
+||pull-hs-spe-f5.douyincdn.com
+||gecko16-normal-useast1a.tiktokv.com
+||pull-l3.douyincdn.com
+||pull-tsl-spe-l6.douyinliving.com
+||push-rtmp-l1.douyincdn.com
+||pull-flv-l11-encryption.douyincdn.com
+||umengacs.m.taobao.com
+||ib.snssdk.com
+||pull-flv-l6-hs.pstatp.com
+||pull-flv-l1.douyincdn.com
+||pull-hls-spe-l26.douyinliving.com
+||push-rtmp-hs-vr-f5-spe01.douyincdn.com
+||pull-lls-hs-f5.flive.douyincdn.com
+||push-rtmp-l6-hs.pstatp.com
+||pull-tsl-spe-l11.douyinliving.com
+||umengacs.m.taobao.com
+||pull-rtmp-l1-hs.pstatp.com
+||pull-lls-l1.douyincdn.com
+||push-rtmp-f5-vs.douyincdn.com
+||push-rtmp-f5-enc.douyincdn.com
+||pull-tsl-l95.douyincdn.com
+||pull-tsl-f1.douyincdn.com
+||pull-flv-cny01-spe-l11.douyinliving.com
+||pull-flv-l6-source.douyincdn.com
+||pull-hls-spe-l11.douyinliving.com
+||pull-rtmp-l6-hs.pstatp.com
+||pull-rtmp-l1-cny.douyincdn.com
+||pull-rtmp-l11.douyincdn.com
+||pull-rtmp-f11.douyincdn.com
+||pull-lls-f5.flive.douyincdn.com
+||pull-tsl-f11.douyincdn.com
+||pull-flv-f6-hs.pstatp.com
+||pull-flv-l6-encryption.douyincdn.com
+||pull-rtmp-l95.douyincdn.com
+||pull-tsl-f6.douyincdn.com
+||pull-flv-l1.douyinliving.com
+||pull-f3.douyincdn.com
+||push-rtmp-l29.douyincdn.com
+||pull-flv-l11-source.douyincdn.com
+||umengacs.m.taobao.com
+||pull-rtmp-l11-hs.pstatp.com
