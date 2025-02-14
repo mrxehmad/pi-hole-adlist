@@ -133,3 +133,10 @@
 ||zoroalteedrich.net^
 ||3patticard.com^
 ||free-signal.com^
+||vungle.com^
+||tradplusad.com^
+||rayjump.com^
+||video.premiumtag.net^
+||logs.ads.vungle.com^
+||event.tradplusad.com^
+||config.ssp.taxssp.com^
