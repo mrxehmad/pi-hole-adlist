@@ -1696,3 +1696,7 @@
 0.0.0.0 max.rethinkdns.com
 #
 0.0.0.0 anycast.dns.nextdns.io
+
+
+f8f131.dns.nextdns.io
+||dns.nextdns.io^
