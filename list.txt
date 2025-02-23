@@ -140,3 +140,7 @@
 ||logs.ads.vungle.com^
 ||event.tradplusad.com^
 ||config.ssp.taxssp.com^
+||3pattiaddress.com^
+||i-pizza.bunkr.ru^
+||rmygfurfa.com^
+||c.bunkr-cache.se^
