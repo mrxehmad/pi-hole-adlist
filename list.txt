@@ -153,3 +153,5 @@
 ||config.ssp.taxssp.com^
 ||rmygfurfa.com^
 ||c.bunkr-cache.se^
+||a-tcc5p.config.emb-api.com^
+||xjp-jmacs.m.taobao.com^
