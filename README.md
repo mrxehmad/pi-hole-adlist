@@ -2,6 +2,9 @@
 
 This repository contains lists of domains to be used with Pi-hole, a network-wide ad blocker. These lists can be added to your Pi-hole configuration to block ads and other unwanted content at the network level.
 
+> [!NOTE]
+> If somthing breaks please report that in issues
+
 ## Lists Available
 
 ### PUBG Domains
