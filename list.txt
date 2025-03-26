@@ -1,4 +1,4 @@
-#Just A Adlist 
+#Just A Adlist (If somthing breaks please report that in issues)
 ||asia-commonitor-stsdk.vivoglobal.com^
 ||userlocation.googleapis.com^
 ||test.internetdownloadmanager.com^
@@ -141,6 +141,15 @@
 ||event.tradplusad.com^
 ||config.ssp.taxssp.com^
 ||3pattiaddress.com^
+||whoami.akamai.net^
 ||i-pizza.bunkr.ru^
+||appsflyersdk.com^
+||vungle.com^
+||tradplusad.com^
+||rayjump.com^
+||video.premiumtag.net^
+||logs.ads.vungle.com^
+||event.tradplusad.com^
+||config.ssp.taxssp.com^
 ||rmygfurfa.com^
 ||c.bunkr-cache.se^
