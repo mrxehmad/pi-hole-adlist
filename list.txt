@@ -23,7 +23,6 @@
 ||static-cdn.spot.im^
 ||publisher-assets.spot.im^
 ||assets.a-mo.net^
-||linktr.ee^
 ||id.a-mx.com^
 ||config.aps.amazon-adsystem.com^
 ||launcher.spot.im^
@@ -64,7 +63,6 @@
 ||aa.unioneeu.com^
 ||analytics-tcp.mtgglobals.com^
 ||registeridm.com^
-||allmylinks.com^
 ||graph.whatsapp.com^
 ||f8f131.dns.nextdns.io^
 ||cpngiubbcnq.love^
