@@ -1,99 +1,125 @@
-# Pi-hole Adlist
+# Pi-hole Adlist Collection
 
-This repository contains lists of domains to be used with Pi-hole, a network-wide ad blocker. These lists can be added to your Pi-hole configuration to block ads and other unwanted content at the network level.
+A comprehensive collection of domain blocklists designed to enhance your Pi-hole ad blocking capabilities. This repository contains carefully curated lists that target various types of ads, tracking, and unwanted content across different platforms and services.
 
-> [!NOTE]
-> If something breaks, please report it in the issues section.
+## 📚 Available Blocklists
 
-## Lists Available
+This repository provides multiple specialized blocklists for different purposes:
 
-### PUBG Domains
+### 🎮 Gaming
 
-The `pubg-block.txt` file contains a list of domains associated with PUBG (PlayerUnknown's Battlegrounds), a popular online multiplayer battle royale game. These domains are often used for tracking, ads, or other unwanted content related to the game.
+- **PUBG Blocklist** (`pubg-block.txt`): Blocks domains associated with PUBG game tracking, ads, and related services
+- **HiTV Ads Blocklist** (`hitv.list`): Targets video advertising on HiTV platform
 
-To use this list, add the following URL to your Pi-hole configuration:
+### 📱 Social Media & Apps
 
-https://raw.githubusercontent.com/mrxehmad/pi-hole-adlist/main/pubg-block.txt
+- **Facebook Blocklist** (`Facebook`): Comprehensive blocking of Facebook services and domains
+- **Instagram Blocklist** (`instagram-pihole`): Blocks Instagram tracking and advertising domains  
+- **Snapchat Blocklist** (`snapchat-pihole`): Blocks Snapchat tracking and advertising domains
+- **TikTok Blocklist** (`tiktok-pihole`): Blocks TikTok tracking and advertising domains
 
-### Snapchat Domains
+### 🌐 Security & Privacy
 
-The `snapchat-pihole` file contains a list of domains associated with Snapchat, a multimedia messaging app. These domains may include tracking, ads, or other unwanted content related to the app.
+- **DNS over HTTPS (DoH) Blocklist** (`doh-list`): Blocks public DNS over HTTPS providers (useful for privacy control)
+- **Huawei Blocklist** (`huawei-host`): Blocks Huawei device tracking and services
 
-To use this list, add the following URL to your Pi-hole configuration:
+### 🛡️ Additional Filters
 
-https://github.com/mrxehmad/pi-hole-adlist/raw/main/snapchat-pihole
+- **uBlock Origin Ads Filter** (`ublock_ads_list`): Ads-only filters from the uBlock Origin project
+- **Android Tracking** (`Android Tracking`): Blocks Android device tracking domains
+- **TikTok Tracking** (`tiktock-tracking`): Additional TikTok tracking domains
 
-### Instagram Domains
+## 🚀 Usage
 
-The `instagram-pihole` file contains a list of domains associated with Instagram, a popular social media platform. These domains may include tracking, ads, or other unwanted content related to the app.
+### Adding to Pi-hole Web Interface
 
-To use this list, add the following URL to your Pi-hole configuration:
+1. Log in to your Pi-hole admin interface
+2. Navigate to **Group Management** (or **Blacklist** in older versions)
+3. Click on **Blocklists** (or **Adlists**)
+4. Enter the raw URL for the list you want to add
+5. Click **Add** and then **Save**
 
-https://github.com/mrxehmad/pi-hole-adlist/raw/main/instagram-pihole
+### Raw URLs for Each List
 
-### TikTok Domains
+- **PUBG Blocklist**: `https://raw.githubusercontent.com/mrxehmad/pi-hole-adlist/main/pubg-block.txt`
+- **Facebook Blocklist**: `https://raw.githubusercontent.com/mrxehmad/pi-hole-adlist/main/Facebook`
+- **Instagram Blocklist**: `https://raw.githubusercontent.com/mrxehmad/pi-hole-adlist/main/instagram-pihole`
+- **Snapchat Blocklist**: `https://raw.githubusercontent.com/mrxehmad/pi-hole-adlist/main/snapchat-pihole`
+- **TikTok Blocklist**: `https://raw.githubusercontent.com/mrxehmad/pi-hole-adlist/main/tiktok-pihole`
+- **DoH Blocklist**: `https://raw.githubusercontent.com/mrxehmad/pi-hole-adlist/main/doh-list`
+- **HiTV Ads Blocklist**: `https://raw.githubusercontent.com/mrxehmad/pi-hole-adlist/main/hitv.list`
+- **Huawei Blocklist**: `https://raw.githubusercontent.com/mrxehmad/pi-hole-adlist/main/huawei-host`
+- **uBlock Origin Ads**: `https://raw.githubusercontent.com/mrxehmad/pi-hole-adlist/main/ublock_ads_list`
+- **Android Tracking**: `https://raw.githubusercontent.com/mrxehmad/pi-hole-adlist/main/Android Tracking`
+- **TikTok Tracking**: `https://raw.githubusercontent.com/mrxehmad/pi-hole-adlist/main/tiktock-tracking`
 
-The `tiktok-pihole` file contains a list of domains associated with TikTok, a video-sharing social networking service. These domains may include tracking, ads, or other unwanted content related to the app.
+### Command Line Setup
 
-To use this list, add the following URL to your Pi-hole configuration:
+You can also add these lists using the command line:
 
-https://github.com/mrxehmad/pi-hole-adlist/raw/main/tiktok-pihole
+```bash
+# Example for adding the PUBG blocklist
+pihole -g https://raw.githubusercontent.com/mrxehmad/pi-hole-adlist/main/pubg-block.txt
+```
 
-### DNS over HTTPS (DoH) Domains
+## 📋 List Format
 
-The `doh-list` file contains a list of domains associated with DNS over HTTPS (DoH) providers. DoH is a protocol for performing remote Domain Name System (DNS) resolution via the HTTPS protocol. While DoH offers privacy benefits, some users may prefer to block connections to DoH providers for various reasons.
+All lists follow the standard Pi-hole format:
 
-To use this list, add the following URL to your Pi-hole configuration:
+- Each line contains an IP address (usually `0.0.0.0` or `127.0.0.1`) followed by a domain
+- Lines starting with `#` are comments and will be ignored
+- Some lists include wildcard patterns using `||domain.com^` format
 
-https://raw.githubusercontent.com/mrxehmad/pi-hole-adlist/main/doh-list
+## ⚠️ Important Notes
 
-### HiTV ad Domains
+- **Testing**: Some domains may block legitimate functionality. Test thoroughly in your environment.
+- **Update Frequency**: Lists are updated periodically as new tracking domains are discovered.
+- **False Positives**: If you find a domain that blocks legitimate content, please [report an issue](https://github.com/mrxehmad/pi-hole-adlist/issues).
+- **Backup**: Always backup your Pi-hole configuration before adding new lists.
 
-The `hitv.list` file contains a list of domains associated with HiTV ads, a video-sharing social networking service. These domains may include tracking, ads, or other unwanted content related to the app.
+## 🤝 Contributing
 
-To use this list, add the following URL to your Pi-hole configuration:
+Contributions are welcome! If you have additional domains to add or find issues with current lists:
 
-https://raw.githubusercontent.com/mrxehmad/pi-hole-adlist/main/hitv.list
+1. Fork the repository
+2. Create a feature branch
+3. Add your changes
+4. Open a pull request
 
-## Huawei Block List
+### Contribution Guidelines
 
-It's a block list. You can integrate this into your PiHole or local blocking software such as Blokada, AdAway... etc., to block all outgoing connections to the said domains.
+- Add domains to the appropriate category list
+- Maintain the standard Pi-hole format
+- Include comments explaining the purpose of new domains (optional)
+- Test changes before submitting
 
-It turns out, if your device has bloated software (e.g., apps that come pre-installed and cannot be removed unless you root your device), you're forced into keeping those services running. Manufacturers like Huawei have stopped providing bootloader unlock codes, thereby not allowing you to root your device. So, the best solution is to set up a local proxy server that blocks the connection.
+## 📝 License
 
-https://raw.githubusercontent.com/mrxehmad/pi-hole-adlist/main/huawei-host
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## uBlock Origin Filters – Ads Domains Only
+## 🙏 Acknowledgments
 
-The uBlock Origin filters from [uAssets](https://github.com/uBlockOrigin/uAssets) are an excellent resource for blocking ads across various platforms. These filters are specifically designed to target ad-serving domains and improve browsing experiences by reducing intrusive advertisements.
+- [uBlock Origin uAssets](https://github.com/uBlockOrigin/uAssets) - For the uBlock Origin filters
+- [wranders/doh-list](https://github.com/wranders/doh-list) - DoH provider list
+- [oneoffdallas/dohservers](https://github.com/oneoffdallas/dohservers) - DoH server information
+- [MohamedElashri/doh-list](https://github.com/MohamedElashri/doh-list) - DoH server references
+- [deep-bhatt/huawei-block-list](https://github.com/deep-bhatt/huawei-block-list) - Huawei blocking information
 
-To use these filters in your Pi-hole setup, you can manually import them or adapt them to your needs. For more details, visit the [uAssets GitHub repository](https://github.com/uBlockOrigin/uAssets).
+## 🐛 Reporting Issues
 
-## How to Use
+If you encounter problems with any of the lists:
 
-To add these lists to your Pi-hole, follow these steps:
+1. Check if the issue is already reported in the [issues section](https://github.com/mrxehmad/pi-hole-adlist/issues)
+2. Create a new issue with:
+   - The specific list causing issues
+   - The domain causing the problem
+   - What functionality was affected
+   - Steps to reproduce the issue
 
-1. Log in to your Pi-hole admin interface.
-2. Select the "lists" tab.
-3. Enter the URL of the list you want to add.
-4. Click on "Add Blocklist".
+## ⚖️ Disclaimer
 
-Your Pi-hole will now block the domains listed in the added lists.
+These lists are designed to block unwanted content but may occasionally block legitimate content. Use at your own discretion. The maintainers are not responsible for any unintended consequences resulting from the use of these lists.
 
-## Contribution
+## 🔄 Updates
 
-These lists are not 100% accurate, and I try my best to update them. If something is missed, please contribute to this repo 😊.
-
-Contributions to this repository are welcome. If you have additional domains to add to the lists or suggestions for improvement, feel free to open an issue or submit a pull request.
-
-## Disclaimer
-
-While these lists aim to block unwanted content, they may also block legitimate content. Use them at your own discretion. The maintainers of this repository are not responsible for any unintended consequences of using these lists.
-
-## Credits
-
-- [uBlock Origin uAssets](https://github.com/uBlockOrigin/uAssets)
-- [wranders/doh-list](https://github.com/wranders/doh-list)
-- [oneoffdallas/dohservers](https://github.com/oneoffdallas/dohservers)
-- [MohamedElashri/doh-list](https://github.com/MohamedElashri/doh-list)
-- [deep-bhatt/huawei-block-list](https://github.com/deep-bhatt/huawei-block-list)
+The lists in this repository are maintained and updated regularly as new tracking domains and ad servers are discovered. Check back frequently for updates or consider setting up automated list refreshes in your Pi-hole configuration.
