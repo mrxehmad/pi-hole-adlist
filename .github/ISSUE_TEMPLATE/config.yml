@@ -7,5 +7,5 @@ contact_links:
     url: https://docs.pi-hole.net/
     about: Check the Pi-hole documentation
   - name: Blocklist Format Guide
-    url: https://github.com/[your-username]/[your-repo]/wiki/Blocklist-Format
+    url: https://github.com/mrxehmad/pi-hole-adlist/wiki/Format-For-Pi%E2%80%90hole-Adlist-Collection
     about: Learn how to format blocklist entries
