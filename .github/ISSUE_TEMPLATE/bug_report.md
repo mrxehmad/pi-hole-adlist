@@ -1,17 +1,16 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: '[Bug] '
-labels: bug
+name: Bug Report
+about: Report issues with our blocklists
+title: '[BUG] '
+labels: 'bug'
 assignees: ''
 ---
 
 **Describe the bug**
 A clear and concise description of what the bug is.
 
-**Which list is affected?**
-Please specify which blocklist file is causing the issue:
-
+**Which blocklist is affected?**
+Please check the affected list(s):
 - [ ] pubg-block.txt
 - [ ] Facebook
 - [ ] instagram-pihole
@@ -23,22 +22,29 @@ Please specify which blocklist file is causing the issue:
 - [ ] ublock_ads_list
 - [ ] Android Tracking
 - [ ] tiktock-tracking
-- [ ] Other (please specify):
+- [ ] Other (please specify): ___________
 
 **Affected domains**
-List the specific domains that are causing problems:
+List the specific domains causing problems:
+example.com
+subdomain.example.com
 
 **Expected behavior**
-What should happen that isn't happening, or what shouldn't happen but is happening?
+What should happen?
 
 **Actual behavior**
 What is actually happening?
 
 **Steps to reproduce**
+1. Add blocklist to Pi-hole
+2. Visit [specific website]
+3. See error/issue
 
-1. Go to '...'
-2. Click on '....'
-3. See error
+**Pi-hole Configuration**
+- Pi-hole Version: [e.g., v5.17.2]
+- FTL Version: [e.g., v5.23]
+- Web Interface Version: [e.g., v5.20.2]
+- DNS Settings: [e.g., Cloudflare, Google, etc.]
 
 **Additional context**
-Add any other context about the problem here. If possible, provide examples of legitimate sites that are being blocked incorrectly.
+Add any other context, screenshots, or logs about the problem here.
