@@ -1,17 +1,15 @@
 ---
 name: False Positive Report
-about: Report domains that are incorrectly blocked
-title: '[False Positive] '
-labels: false-positive
+about: Report legitimate sites being incorrectly blocked
+title: '[FALSE POSITIVE] '
+labels: 'false-positive, priority'
 assignees: ''
 ---
 
-**Describe the issue**
-A clear and concise description of what website or service was incorrectly blocked.
+**Website/Service affected**
+Name of the legitimate website or service being blocked:
 
-**Which list is affected?**
-Please specify which blocklist file contains the false positive:
-
+**Which blocklist contains the false positive?**
 - [ ] pubg-block.txt
 - [ ] Facebook
 - [ ] instagram-pihole
@@ -23,20 +21,34 @@ Please specify which blocklist file contains the false positive:
 - [ ] ublock_ads_list
 - [ ] Android Tracking
 - [ ] tiktock-tracking
-- [ ] Other (please specify):
+- [ ] Unknown/Multiple lists
+- [ ] Other: ___________
 
-**Affected domain(s)**
-List the specific domain(s) that are incorrectly blocked:
+**Incorrectly blocked domain(s)**
 
-**Impact**
-What legitimate functionality is being blocked? Please provide details:
+legitimate-site.com
+api.legitimate-service.com
 
-**Verification steps**
-How can we verify that this domain should not be blocked?
+**What functionality is broken?**
+Describe what stops working when these domains are blocked:
 
-**Additional context**
-Add any other context about the false positive here, such as:
+**Why this is a false positive**
+Explain why this domain should NOT be blocked:
+- [ ] Essential for website functionality
+- [ ] Not an ad/tracking server
+- [ ] Required for authentication/login
+- [ ] Required for payment processing
+- [ ] Other: ___________
 
-- Why this domain is needed for legitimate purposes
-- What service it provides
-- Any evidence that it's not an ad/tracker
+**Steps to verify**
+1. Block the domain
+2. Visit [website]
+3. Notice [specific feature] doesn't work
+4. Whitelist the domain
+5. Feature works again
+
+**Evidence**
+Provide any evidence that this is a legitimate domain (documentation, official sources, etc.):
+
+**Temporary workaround**
+Have you found a workaround? Share it here to help others:
