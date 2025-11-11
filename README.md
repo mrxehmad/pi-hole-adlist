@@ -26,7 +26,7 @@ This repository provides multiple specialized blocklists for different purposes:
 ### 🛡️ Additional Filters
 
 - **uBlock Origin Ads Filter** (`ublock_ads_list`): Ads-only filters from the uBlock Origin project
-- **Android Tracking** (`Android Tracking`): Blocks Android device tracking domains
+- **Android Tracking** (`android-tracking`): Blocks Android device tracking domains
 - **TikTok Tracking** (`tiktock-tracking`): Additional TikTok tracking domains
 
 ## 🚀 Usage
@@ -50,7 +50,7 @@ This repository provides multiple specialized blocklists for different purposes:
 - **HiTV Ads Blocklist**: `https://raw.githubusercontent.com/mrxehmad/pi-hole-adlist/main/hitv.list`
 - **Huawei Blocklist**: `https://raw.githubusercontent.com/mrxehmad/pi-hole-adlist/main/huawei-host`
 - **uBlock Origin Ads**: `https://raw.githubusercontent.com/mrxehmad/pi-hole-adlist/main/ublock_ads_list`
-- **Android Tracking**: `https://raw.githubusercontent.com/mrxehmad/pi-hole-adlist/main/Android Tracking`
+- **Android Tracking**: `https://raw.githubusercontent.com/mrxehmad/pi-hole-adlist/main/android-tracking`
 - **TikTok Tracking**: `https://raw.githubusercontent.com/mrxehmad/pi-hole-adlist/main/tiktock-tracking`
 
 ### Command Line Setup
