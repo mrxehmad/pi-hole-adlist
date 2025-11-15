@@ -85,3 +85,12 @@ ig-us-notice.igamecj.com
 ig-us-sdkapi.igamecj.com
 cloudctrl.igamecj.com
 asia.csoversea.mbgame.anticheatexpert.com
+naspeed.igamecj.com
+asia.csoversea.mbgame.anticheatexpert.com
+api.club.gpubgm.com
+cdn.club.gpubgm.com
+grpc.club.gpubgm.com
+broker-1314297.vasdgame.com
+k.gjacky.com
+mgl.public.igamecj.com
+
