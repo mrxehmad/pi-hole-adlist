@@ -239,3 +239,6 @@ snsfdmmzpixhn.site
 ads-img.mozilla.org
 ads.mozilla.org
 ocpydtjcvcxug.site
+sdkopmetrics-asia.dsp-api.moloco.com
+ad-host-backup-asia.oss-ap-southeast-1.aliyuncs.com
+api.bidmachine.io
