@@ -84,7 +84,6 @@ download.2.1375135419.igame.gcloudcs.com
 ig-us-notice.igamecj.com
 ig-us-sdkapi.igamecj.com
 cloudctrl.igamecj.com
-asia.csoversea.mbgame.anticheatexpert.com
 naspeed.igamecj.com
 asia.csoversea.mbgame.anticheatexpert.com
 api.club.gpubgm.com
@@ -93,4 +92,5 @@ grpc.club.gpubgm.com
 broker-1314297.vasdgame.com
 k.gjacky.com
 mgl.public.igamecj.com
-
+dl.listdl.com
+sg.tdatamaster.com
