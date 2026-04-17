@@ -848,7 +848,7 @@ m.atm.youku.com
 iyes.youku.com
 orange-dc.youku.com
 adashx.ut.youku.com
-s.youtube.com
+#s.youtube.com
 bms.zeptolab.com
 www.zrszxrummjaci.com
 zvwhrc.com
