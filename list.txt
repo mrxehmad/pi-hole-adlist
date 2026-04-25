@@ -242,3 +242,8 @@ ocpydtjcvcxug.site
 sdkopmetrics-asia.dsp-api.moloco.com
 ad-host-backup-asia.oss-ap-southeast-1.aliyuncs.com
 api.bidmachine.io
+m.jmmobi.com
+cdn.dhanakstyle.com
+sgpbl.jmmobi.com
+img.jmmobi.com
+s.dhanakstyle.com
