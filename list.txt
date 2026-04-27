@@ -247,3 +247,4 @@ cdn.dhanakstyle.com
 sgpbl.jmmobi.com
 img.jmmobi.com
 s.dhanakstyle.com
+browser-intake-us5-datadoghq.com
